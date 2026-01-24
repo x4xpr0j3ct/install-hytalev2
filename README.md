@@ -1,2 +1,2 @@
 # install-hytalev2
-v2
+update_hytale.sh  --------   À placer dans ~/hytale/ 
