@@ -70,5 +70,6 @@ $JAVA \
 -jar HytaleServer.jar --assets ../Assets.zip
 "
 
-echo "✅ UPDATE TERMINÉ"
+echo "✅ UPDATE TERMINÉ by THEKEWAZE et X3XTAZIIX"
 echo "👉 Console : screen -r hytale"
+
